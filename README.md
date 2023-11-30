@@ -27,9 +27,6 @@ and open another terminal on frontend directory
 ```
 npm run start
 ```
-
-Access the web app at http://localhost:3000/
-
 Admin:
 Email: admin@gmail.com
 Pass: admin@gmail.com
