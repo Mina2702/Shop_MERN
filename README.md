@@ -20,7 +20,7 @@ cd backend && npm install
 Open a terminal on backend directory
 
 ```
-npm run start:dev
+npm run start
 ```
 
 and open another terminal on frontend directory
